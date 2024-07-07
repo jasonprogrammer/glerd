@@ -53,6 +53,11 @@ pub const record_info = [
 ]
 ```
 
+This metadata can then be used to generate Gleam code that works with the `User`
+record (see [glerd_json](https://github.com/darky/glerd-json) for an example of
+reading this metadata and generating Gleam boilerplate code for
+encoding/decoding records to/from [JSON](https://www.json.org/json-en.html).
+
 ## Sample project for testing
 
 If you'd like to try out Glerd, there is a
