@@ -59,7 +59,7 @@ record (see [glerd_json](https://github.com/darky/glerd-json) for an example of
 reading this metadata and generating Gleam boilerplate code for
 encoding/decoding records to/from [JSON](https://www.json.org/json-en.html)).
 
-## Sample project for testing
+## Sample project
 
 If you'd like to try out Glerd, there is a
 [sample Gleam project](https://github.com/jasonprogrammer/glerd_example) with
