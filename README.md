@@ -53,6 +53,12 @@ pub const record_info = [
 ]
 ```
 
+## Sample project for testing
+
+If you'd like to try out Glerd, there is a
+[sample Gleam project](https://github.com/jasonprogrammer/glerd_example) with
+instructions and a source file for quick testing.
+
 ## Development
 
 Run:
