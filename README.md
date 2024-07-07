@@ -3,9 +3,10 @@
 [![Package Version](https://img.shields.io/hexpm/v/glerd)](https://hex.pm/packages/glerd)
 [![Hex Docs](https://img.shields.io/badge/hex-docs-ffaff3)](https://hexdocs.pm/glerd/)
 
-Glerd is tooling, written in [Gleam](https://gleam.run/), that generates metadata of
-[Records](https://tour.gleam.run/data-types/records/), as a
-substitute for runtime reflection, which does not exist in Gleam.
+Glerd is tooling, written in [Gleam](https://gleam.run/), that generates
+metadata that describes Gleam [Records](https://tour.gleam.run/data-types/records/).
+This metadata can be used to generate Gleam code that works with those records,
+as a substitute for runtime reflection, which does not exist in Gleam.
 
 ## Installing
 
